@@ -2,6 +2,7 @@
 
 
 ### Use the following command to generate a Maven project that contains Beam’s WordCount examples and builds against the most recent Beam release:
+### All of these commands should be run in Powershell.
 
 ```
 mvn archetype:generate `
